@@ -1,4 +1,4 @@
-using EF_WEB_API.Entity;
+using EF_WEB_API.Data;
 using Microsoft.EntityFrameworkCore;
 
 
