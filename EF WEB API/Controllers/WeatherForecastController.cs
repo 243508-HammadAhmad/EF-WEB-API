@@ -8,12 +8,5 @@ namespace EF_WEB_API.Controllers
     public class WeatherForecastController : ControllerBase
     {
 
-        [HttpGet ("suma")]
-        public int suma(int a,int b)
-        {
-            return a + b;
-
-        }
-        
     }
 }
