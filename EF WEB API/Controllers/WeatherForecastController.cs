@@ -7,6 +7,6 @@ namespace EF_WEB_API.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-
+     
     }
 }
